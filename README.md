@@ -1,2 +1,3 @@
 # My-Project
-Trying to know how GitHub works.
+Machine Learning Hello World
+
